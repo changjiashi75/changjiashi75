@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @changjiashi75. I’m interested in JavaScript.
+- 🌱 I’m currently learning TypeScript to enhance my JavaScript development skills and ensure type safety.
